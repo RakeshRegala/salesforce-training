@@ -51,5 +51,3 @@ Customer = Enrolled student
 
 ---
 
-## Screenshots
-(Add Trailhead screenshots here)
